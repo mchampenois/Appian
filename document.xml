@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document repository="default" id="23f668e5-6eb9-4054-a576-45c51a7d279f">
+  <system>
+    <type>QualityDocument</type>
+    <path>TotalQuality/workspace/0000007616</path>
+    <lifecycle-state>applicable</lifecycle-state>
+    <lifecycle-policy>RoqDocumentLifecycle</lifecycle-policy>
+    <facet>Versionable</facet>
+    <facet>NXTag</facet>
+    <facet>Publishable</facet>
+    <facet>CollectionMember</facet>
+    <facet>Commentable</facet>
+    <facet>HasRelatedText</facet>
+    <access-control>
+      <acl name="local">
+        <entry principal="system" permission="Everything" grant="true" creator="system"/>
+        <entry principal="administrators" permission="Everything" grant="true"/>
+        <entry principal="grp_totalquality_administrators" permission="Everything" grant="true" creator="system"/>
+        <entry principal="author1" permission="ReadWrite" grant="true" creator="system"/>
+        <entry principal="grp_perimeter_ap_af_fr" permission="ReadWrite" grant="true" creator="system"/>
+        <entry principal="grp_perimeter_ap_af_all" permission="ReadWrite" grant="true" creator="system"/>
+        <entry principal="grp_perimeter_ap_all_all" permission="ReadWrite" grant="true" creator="system"/>
+        <entry principal="grp_perimeter_ap_all_fr" permission="ReadWrite" grant="true" creator="system"/>
+        <entry principal="members" permission="ReadWithContent" grant="true" creator="system"/>
+        <entry principal="Everyone" permission="Everything" grant="false"/>
+      </acl>
+    </access-control>
+  </system>
+  <schema xmlns:file_schema="http://www.nuxeo.org/ecm/project/schemas/nuxeo-roquette/file_schema" name="file_schema"></schema>
+  <schema xmlns:uid="http://project.nuxeo.com/geide/schemas/uid/" name="uid">
+    <uid:major_version><![CDATA[1]]></uid:major_version>
+    <uid:minor_version><![CDATA[0]]></uid:minor_version>
+  </schema>
+  <schema xmlns:file="http://www.nuxeo.org/ecm/schemas/file/" name="file"></schema>
+  <schema xmlns:collectionMember="http://www.nuxeo.org/ecm/schemas/collectionMember/" name="collectionMember">
+    <collectionMember:collectionIds>
+      <collectionId><![CDATA[da444a21-1acd-4897-80a7-ecc6cbfc869c]]></collectionId>
+    </collectionMember:collectionIds>
+  </schema>
+  <schema xmlns:common="http://www.nuxeo.org/ecm/schemas/common/" name="common">
+    <common:icon><![CDATA[/img/file.gif]]></common:icon>
+  </schema>
+  <schema xmlns:files="http://www.nuxeo.org/ecm/schemas/files/" name="files">
+    <files:files/>
+  </schema>
+  <schema xmlns:dc="http://www.nuxeo.org/ecm/schemas/dublincore/" name="dublincore">
+    <dc:description><![CDATA[TEST AMEXDV BIS]]></dc:description>
+    <dc:valid><![CDATA[2022-11-25T09:40:03.760Z]]></dc:valid>
+    <dc:creator><![CDATA[author1]]></dc:creator>
+    <dc:modified><![CDATA[2022-12-21T13:33:50.735Z]]></dc:modified>
+    <dc:lastContributor><![CDATA[Administrator]]></dc:lastContributor>
+    <dc:created><![CDATA[2022-11-25T09:33:28.576Z]]></dc:created>
+    <dc:title><![CDATA[AFAFAP1007FR]]></dc:title>
+    <dc:contributors>
+      <item><![CDATA[author1]]></item>
+      <item><![CDATA[Administrator]]></item>
+    </dc:contributors>
+  </schema>
+  <schema xmlns:roq="http://www.nuxeo.org/ecm/project/schemas/nuxeo-roquette/roquette" name="roquette">
+    <roq:entities>
+      <item><![CDATA[0000]]></item>
+    </roq:entities>
+    <roq:versionHistory><![CDATA[test]]></roq:versionHistory>
+    <roq:chrono><![CDATA[1007]]></roq:chrono>
+    <roq:businessOwner><![CDATA[author1]]></roq:businessOwner>
+    <roq:effectiveDate><![CDATA[2022-11-25T10:27:04.068Z]]></roq:effectiveDate>
+    <roq:confidentiality><![CDATA[internal]]></roq:confidentiality>
+    <roq:domain><![CDATA[AF]]></roq:domain>
+    <roq:subtypeOfDocument><![CDATA[af_a]]></roq:subtypeOfDocument>
+    <roq:approvers>
+      <item><![CDATA[controller1]]></item>
+      <item><![CDATA[OdAdmin]]></item>
+      <item><![CDATA[reader1]]></item>
+    </roq:approvers>
+    <roq:category><![CDATA[1]]></roq:category>
+    <roq:origin><![CDATA[AP]]></roq:origin>
+    <roq:typeOfDocument><![CDATA[af]]></roq:typeOfDocument>
+    <roq:contentFieldModified><![CDATA[forceOfficeUpdate]]></roq:contentFieldModified>
+    <roq:reviewers>
+      <item><![CDATA[author2]]></item>
+    </roq:reviewers>
+    <roq:effectivePeriod><![CDATA[5]]></roq:effectivePeriod>
+    <roq:docController><![CDATA[author1]]></roq:docController>
+    <roq:recipients>
+      <item>
+        <recipientMustRead><![CDATA[false]]></recipientMustRead>
+        <tbrState><![CDATA[notStarted]]></tbrState>
+        <recipientUserGroup><![CDATA[controller1]]></recipientUserGroup>
+      </item>
+      <item>
+        <recipientMustRead><![CDATA[false]]></recipientMustRead>
+        <tbrState><![CDATA[notStarted]]></tbrState>
+        <recipientUserGroup><![CDATA[author2]]></recipientUserGroup>
+      </item>
+      <item>
+        <recipientMustRead><![CDATA[false]]></recipientMustRead>
+        <tbrState><![CDATA[notStarted]]></tbrState>
+        <recipientUserGroup><![CDATA[author1]]></recipientUserGroup>
+      </item>
+    </roq:recipients>
+    <roq:authors>
+      <item><![CDATA[author1]]></item>
+    </roq:authors>
+    <roq:language><![CDATA[fr]]></roq:language>
+    <roq:nextReviewDate><![CDATA[2027-11-25T10:27:04.068Z]]></roq:nextReviewDate>
+  </schema>
+  <schema xmlns:relatedtext="http://www.nuxeo.org/ecm/schemas/relatedtext/" name="relatedtext">
+    <relatedtext:relatedtextresources/>
+  </schema>
+  <schema xmlns:qa="http://www.nuxeo.org/ecm/project/schemas/nuxeo-roquette/quality" name="quality"></schema>
+  <schema xmlns:nxtag="http://www.nuxeo.org/ecm/schemas/facetedTag/" name="facetedTag">
+    <nxtag:tags/>
+  </schema>
+</document>
